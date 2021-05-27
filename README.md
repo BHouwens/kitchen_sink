@@ -6,10 +6,10 @@ The notebooks in this repo are set up for common ML project types (with more to 
 
 Because everything is a notebook everything is also noted and explained with prose, and you're welcome to add and remove cells in line with your project.
 
-## Contributing
+## 🤝 Contributing
 
 `kitchen_sink` is always in need of more work and so all contributions are welcome! If you have an idea or a problem you can submit an issue, and if you want to add or change anything you're welcome to submit a merge request.
 
-## License
+## 🏛 License
 
-`kitchen_sink` is licensed under the MIT License.
+`kitchen_sink` is licensed under the [MIT License](https://github.com/BHouwens/kitchen_sink/blob/main/LICENSE).
