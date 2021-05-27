@@ -1,4 +1,4 @@
-# kitchen_sink
+# 🚰 kitchen_sink
 
 Starting a new ML project requires setting up environments, handling dependencies and generally spending a lot of time just setting everything up. What we really want to spend our time doing is exploring our data and working on our models, and that's why `kitchen_sink` is here to help you out!
 
